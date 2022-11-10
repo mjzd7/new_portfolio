@@ -2,13 +2,13 @@ import Head from "next/head";
 import { Fragment } from "react";
 import "../styles/globals.css";
 
-import "../public/css/theme-colors/gold.css";
+// import "../public/css/theme-colors/gold.css";
 
 function MyApp({ Component, pageProps }) {
   return (
     <Fragment>
       <Head>
-        <title>Mohit Dagar </title>
+        <title>Mohit Dagar</title>
 
         <link
           href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic"
